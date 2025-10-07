@@ -157,12 +157,13 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 Md Jisan Ahmed
 📧 [jisan3325@gmail.com](mailto:jisan3325@gmail.com)
 
 Isha Das
 📧 [isha@idtechsolutionsbd.com](mailto:isha@idtechsolutionsbd.com)
+
 
 
